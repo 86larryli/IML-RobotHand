@@ -1,3 +1,5 @@
+*.pdf
+
 *.bundle.*
 lib/
 node_modules/
